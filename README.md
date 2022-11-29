@@ -43,12 +43,12 @@ git clone https://github.com/gianhp12/TCC-Biblioteca-Moderna.git
 ```
 
 
-####  Instalar depêndencias do Node.JS através do npm install, na pasta frond-end do projeto para execução do projeto.
-####  O front-end irá inciciar no endereço e porta: http://localhost:3000.
-####  Para executar a API do Projeto, abrir a pasta back-end em uma IDE de sua preferência e instalar as dependências do Maven.
-####  A API será executada no endereço e porta: http://localhost:8085.
+ Instalar depêndencias do Node.JS através do npm install, na pasta frond-end do projeto para execução do projeto.
+ O front-end irá inciciar no endereço e porta: http://localhost:3000.
+ Para executar a API do Projeto, abrir a pasta back-end em uma IDE de sua preferência e instalar as dependências do Maven.
+ A API será executada no endereço e porta: http://localhost:8085.
 
-## OBS: O projeto utiliza o banco MYSQL, no projeto temos o arquivo biblioteca-sql.sql. Esse contém o schema para criação do banco de dados no servidor/maquina local que irá executar o projeto. O banco está configurado na API para a porta padrão 3306.
+ OBS: O projeto utiliza o banco MYSQL, no projeto temos o arquivo biblioteca-sql.sql. Esse contém o schema para criação do banco de dados no servidor/maquina local que irá executar o projeto. O banco está configurado na API para a porta padrão 3306.
 
 
 
